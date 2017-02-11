@@ -1,5 +1,7 @@
 # firmata-party
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/firmata-party.svg)](https://greenkeeper.io/)
+
 This CLI tool provides a quick way to flash Standard Firmata to your Arduino board.
 
 Supported boards:
